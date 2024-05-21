@@ -1,0 +1,13 @@
+{
+  "name": "cautnew/summernote",
+  "version": "v0.8.20",
+  "description": "Super simple WYSIWYG Editor.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Summernote\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
